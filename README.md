@@ -5,7 +5,7 @@
 ## Objective
 The primary focus of this project was to gain basic familiarity of another firewall software in a virtualized environment. After pfSense set-up was complete, very simple firewall rules were created on my own in a Windows virtual machine and experimented with to primarily learn rule components, rule ordering and processing.
 
-Sources used for this set-up: [MyDFIR on YouTube](https://www.youtube.com/watch?v=IymmPht-dAQ), [Arcy Caparros](https://arcy24.medium.com/setting-home-lab-via-pfsense-part-1-5dffd73d6871), [Joshua Greene](https://drive.google.com/file/d/1bYiYn-L6si4Q27qhIIxpfigM0Ax9PofH/view), [ToTatCa on YouTube](https://www.youtube.com/watch?v=phwrzv8KlUE&t=624s)
+Sources used for this set-up: [ZacsTech on YouTube](https://youtu.be/Y-Dj8lHmXy8?si=9pihJdVePQIq-tFn), [Arcy Caparros](https://arcy24.medium.com/setting-home-lab-via-pfsense-part-1-5dffd73d6871), [ToTatCa on YouTube](https://www.youtube.com/watch?v=phwrzv8KlUE&t=624s)
 
 ### Skills Learned
 - Installing and setting up pfSense
